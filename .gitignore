@@ -1,0 +1,8 @@
+*tfstate*
+.terraform/
+.terraform/providers/
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+
